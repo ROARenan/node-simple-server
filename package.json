@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ROARenan/node-simple-server/issues"
   },
-  "homepage": "https://github.com/ROARenan/node-simple-server#readme"
+  "homepage": "https://github.com/ROARenan/node-simple-server#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
